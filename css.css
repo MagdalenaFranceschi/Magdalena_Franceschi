@@ -1,0 +1,34 @@
+@sharset "utf-8";
+/* CSS Document*/
+p {
+	color: black;
+	font-family: "Constantia", "Lucida Bright", "DejaVu Serif", "Georgia serif";
+	font-size: 16px;
+	line-height: 18px;
+	background-color: rgba(255, 255, 255, 0.5);
+	padding: 28px;
+}
+h1, h2 {
+	font-family: Gothem, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: purple;
+}
+span {color: purple;}
+body {
+	background-image: url("slike/vj10.32.jpg");
+}
+.drugapozadina {
+	background-color: darkgray;
+}
+a:link {
+	color: black;
+	background-color: white;
+	padding: 5px;
+	line-height: 40px;
+	border: 1px solid #FFFFFF
+}
+a:hover {
+	background-color: darkgray;	
+}
+img {
+	height: 314px;
+}
